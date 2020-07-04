@@ -11,7 +11,7 @@ jobs:
   build:
     env:
       IDENTIFICACAO_ALUNO: aluno9
-      DIRETORIO_WEBAPP: ASPNET5-Preview6_REST-API_Docker
+      DIRETORIO_WEBAPP: APIContagem
 
     runs-on: ubuntu-latest
 
